@@ -1,3 +1,3 @@
 # Desafios de Javascript 
 ---
- Desafios propostos pelo curso de **Javascript Básico** do *CursoemVídeo*
+ Desafios resolvidos propostos pelo curso de **Javascript Básico** do **CursoemVídeo**
